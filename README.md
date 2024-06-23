@@ -7,6 +7,10 @@ A custom protocol implementation for Muvor Protocol (MVRP) with modern features.
 ## Installation
 
 ```bash
+go get -v github.com/wakuu-enterprises/mvrp-go
+```
+
+```bash
 go mod tidy
 ```
 
